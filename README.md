@@ -3,32 +3,57 @@
 </h1>
 
 <h3 align="center">
-  Desenvolvedora Full Stack em Formação 
+  Desenvolvedora Full Stack | Foco em Next.js, TypeScript & Supabase
   <br>
   <img src="https://img.shields.io/badge/Status-Open%20To%20Work-blue?style=for-the-badge&logo=linkedin" alt="Open to Work Badge">
 </h3>
 
 <div align="left">
-  <h3>
-    🐍 Python no core, visão Full Stack.
-  </h3>
-  <h3>
-    💡 A melhor versão do código é a que ainda não escrevi. Mente sempre aberta a novos desafios e tecnologias.
-  </h3>
-  <h3>
-    📈 Minha meta: evoluir a cada linha de código. Aprender, aplicar, repetir (Life Long Learner).
-  </h3>
+  <h3> 🚀 Sobre minha jornada </h3>
+  <p>
+    Iniciei minha trajetória na tecnologia consolidando uma base lógica forte com <strong>Python</strong>. Durante 2 anos, explorei desde automações complexas com <strong>PyAutoGUI</strong> e análise de dados com <strong>Pandas</strong>, até o desenvolvimento de APIs robustas com <strong>Flask</strong> e <strong>SQLAlchemy</strong>.
+  </p>
+  
+  <p>
+    Essa experiência me permitiu entender o ciclo completo de uma aplicação, o que me levou a evoluir para o desenvolvimento <strong>Full Stack</strong>. Hoje, transformo essa bagagem de backend e lógica em aplicações modernas, escaláveis e focadas na experiência do usuário.
+  </p>
+
+  <h3> 🛠️ Stack de Foco Atual </h3>
+  <p>
+    Atualmente, dedico meus estudos e projetos ao ecossistema <strong>React</strong>, com o objetivo de entregar soluções de alta performance:
+    <br>
+    <strong>Next.js | TypeScript | Tailwind CSS | Supabase (PostgreSQL)</strong>
+  </p>
 </div>
 
 <hr>
 
-<h2 align="left">About Me</h2>
+<h2 align="left">Especialidades & Experiência</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Front-end & Frameworks</strong><br>
+      • Next.js / React<br>
+      • TypeScript<br>
+      • Tailwind CSS / CSS Modules<br>
+      • HTML5 & JavaScript (ES6+)
+    </td>
+    <td width="50%" valign="top">
+      <strong>Backend & Ferramentas</strong><br>
+      • Python (Flask, Pygame, Pandas)<br>
+      • Supabase / PostgreSQL / MySQL<br>
+      • Automação & Scripting (PyAutoGUI)<br>
+      • Git / Vercel / Cloud Deployment
+    </td>
+  </tr>
+</table>
+
+<br>
 
 <p align="left">
-Sou entusiasta do aprendizado contínuo. Meu objetivo é transformar ideias em soluções robustas e funcionais através de um código limpo e eficiente.<br><br>
-Este repositório hospeda o meu portfólio de desenvolvimento, o meu hub de projetos <strong>Full Stack</strong> em construção, com foco em <strong>Python</strong> e tecnologias de <strong>Deploy em Cloud</strong>.
+Sou entusiasta do aprendizado contínuo e do <strong>código limpo</strong>. Este perfil é o meu hub de evolução, onde documento projetos que vão desde automações inteligentes até plataformas web completas.
 </p>
-
 <br>
 <h2 align="left">🚀 Projetos em Destaque</h2>
 
@@ -61,7 +86,7 @@ Este repositório hospeda o meu portfólio de desenvolvimento, o meu hub de proj
 </p>
 
 <p align="left">
-  <a href="https://daniela-guimaraes.github.io/dani-guimaraes-portifolio/">
+  <a href="https://daniela-guimaraes.github.io">
     <img src="https://img.shields.io/badge/Acesse_o_Portfólio-FE4853?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio Link Badge">
   </a>
 </p>
@@ -75,7 +100,7 @@ Este repositório hospeda o meu portfólio de desenvolvimento, o meu hub de proj
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/dani-guimar%C3%A3es/">
+  <a href="https://www.linkedin.com/in/daniguimaraes-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
   <a href="https://wa.me/5544984319805">
